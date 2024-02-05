@@ -1,5 +1,6 @@
 import time
 
+
 def get_positive_integer_input(prompt):
     while True:
         try:
